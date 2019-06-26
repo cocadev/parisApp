@@ -85,6 +85,6 @@ export default DrawerNavigator({
     }, {
         initialRouteName: 'HOME',
         contentComponent: SideMenu,
-        drawerWidth: 300
+        drawerWidth: 330
     },
 );
