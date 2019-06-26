@@ -19,10 +19,10 @@ const _colorSet = {
 };
 
 const _fontSet = {
-  bSize: 16,
-  fsize: 15,
-  mSize: 13,
-  xSize: 11
+  bSize: 18,
+  fsize: 17,
+  mSize: 14,
+  xSize: 12
 };
 
 const StyleDict = {
