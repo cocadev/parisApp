@@ -1,6 +1,6 @@
 const workbenchData = [
     {
-        title: 'Culture',
+        title: 'Test Culture',
         member: [
             {
                 title: 'Associations',
@@ -18,7 +18,7 @@ const workbenchData = [
 
     },
     {
-        title: 'Emploi &amp; Commerces',
+        title: 'Test Emploi &amp; Commerces',
         member: [
             {
                 title: 'Brocantes &amp; vides greniers',
@@ -36,7 +36,7 @@ const workbenchData = [
         ]
     },
     {
-        title: 'Environnement et espace ',
+        title: 'Test Environnement et espace ',
         member: [
             {
                 title: 'Eco Citoyenneté',
@@ -47,7 +47,7 @@ const workbenchData = [
         ]
     },
     {
-        title: 'Famille',
+        title: 'Test Famille',
         member: [
             {
                 title: 'Écoles',
@@ -61,13 +61,13 @@ const workbenchData = [
         ]
     },
     {
-        title: 'Homepage',
+        title: 'Test Homepage',
         member: [
 
         ]
     },
     {
-        title: 'Ma Mairie',
+        title: 'Test Ma Mairie',
         member: [
             {
                 title: 'Le 17 dans la presse',
@@ -85,15 +85,15 @@ const workbenchData = [
         ]
     },
     {
-        title: 'Non classé',
+        title: 'Test Non classé',
         member: []
     },
     {
-        title: 'Racine',
+        title: 'Test Racine',
         member: []
     },
     {
-        title: 'Santé &amp; Solidarité',
+        title: 'Test Santé &amp; Solidarité',
         member: [
             {
                 title: 'Liste des pharmacie de garde',
@@ -111,7 +111,7 @@ const workbenchData = [
         ]
     },
     {
-        title: 'Séniors',
+        title: 'Test Séniors',
         member: [
             {
                 title: 'Permanence informatique',
