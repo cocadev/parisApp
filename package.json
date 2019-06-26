@@ -9,13 +9,13 @@
   "dependencies": {
     "@shoutem/ui": "^0.23.4",
     "native-base": "^2.4.5",
-    "react": "16.3.1",
-    "react-native": "^0.55.2",
+    "react": "16.8.3",
+    "react-native": "0.59.9",
     "react-native-expandable-section-flatlist": "^1.1.7",
     "react-native-remote-svg": "^1.2.0",
     "react-native-swiper": "^1.5.13",
     "react-native-vector-icons": "^4.6.0",
-    "react-navigation": "^2.1.0"
+    "react-navigation": "3.8.1"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
