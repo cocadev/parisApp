@@ -10,7 +10,7 @@
     "@shoutem/ui": "^0.23.4",
     "native-base": "^2.4.5",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.64.2",
     "react-native-expandable-section-flatlist": "^1.1.7",
     "react-native-remote-svg": "^1.2.0",
     "react-native-swiper": "^1.5.13",
